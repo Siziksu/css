@@ -1,6 +1,6 @@
 # CSS
 
-Learning CSS
+CSS quick reference.
 
 ## The display Property
 
